@@ -34,8 +34,6 @@
 ## Back end
 Pré-requisitos: Java 8+
 
-```bash
-git https://github.com/SidneyFSJR
 
 # entrar na pasta do projeto back end
 cd backend
@@ -47,8 +45,6 @@ cd backend
 ## Front end web
 Pré-requisitos: npm / yarn
 
-```bash
-git https://github.com/SidneyFSJR
 
 # entrar na pasta do projeto front end web
 
